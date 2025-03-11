@@ -1,4 +1,4 @@
-# DEQ-GFs
+# Distributional Deep Equilibrium Models
 Welcome to the DDEQ repository!
 
 ## Installation
